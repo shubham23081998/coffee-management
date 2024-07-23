@@ -68,8 +68,6 @@ Your Hyperledger Fabric network, backend server, and frontend application should
 - For backend server issues, check the debugger console for detailed error messages.
 - For frontend issues, check the browser console and terminal for error messages.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
